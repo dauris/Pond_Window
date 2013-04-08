@@ -27,3 +27,31 @@ C:\Users\KatastroPHIK\Documents\Visual Studio 2012\Projects\Pond2\Pond\obj\Debug
 C:\Users\KatastroPHIK\Documents\Visual Studio 2012\Projects\Pond2\Pond\obj\Debug\Pond.Options.resources
 C:\Users\KatastroPHIK\Documents\Visual Studio 2012\Projects\Pond2\Pond\obj\Debug\Pond.bookmarkzAdd.resources
 C:\Users\KatastroPHIK\Documents\Visual Studio 2012\Projects\Pond2\Pond\obj\Debug\Pond.Bookmarkz.resources
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\bin\Debug\Pond.exe.config
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\Interop.MSComctlLib.dll
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\Interop.SHDocVw.dll
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\AxInterop.MSComctlLib.dll
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\Pond.vbproj.ResolveComReference.cache
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\Pond.exe
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\Pond.xml
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\Pond.pdb
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\bin\Debug\Pond.exe
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\bin\Debug\Pond.pdb
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\bin\Debug\Pond.xml
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\bin\Debug\Interop.MSComctlLib.dll
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\bin\Debug\Interop.SHDocVw.dll
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\bin\Debug\AxInterop.MSComctlLib.dll
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\Pond.vbprojResolveAssemblyReference.cache
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\Pond.About_Pond.resources
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\Pond.Bookmarkz.resources
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\Pond.bookmarkzAdd.resources
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\Pond.History.resources
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\Pond.Pond.resources
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\Pond.PondMain.resources
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\Pond.Options.resources
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\Pond.Resources.resources
+C:\Users\KatastroPHIK\Desktop\Pond_Window\Pond\obj\Debug\Pond.vbproj.GenerateResource.Cache
